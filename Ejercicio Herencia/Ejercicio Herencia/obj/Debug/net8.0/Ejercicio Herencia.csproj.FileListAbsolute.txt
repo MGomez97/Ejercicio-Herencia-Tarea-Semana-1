@@ -1,0 +1,15 @@
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Herencia-Tarea-Semana-1\Ejercicio Herencia\Ejercicio Herencia\bin\Debug\net8.0\Ejercicio Herencia.exe
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Herencia-Tarea-Semana-1\Ejercicio Herencia\Ejercicio Herencia\bin\Debug\net8.0\Ejercicio Herencia.deps.json
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Herencia-Tarea-Semana-1\Ejercicio Herencia\Ejercicio Herencia\bin\Debug\net8.0\Ejercicio Herencia.runtimeconfig.json
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Herencia-Tarea-Semana-1\Ejercicio Herencia\Ejercicio Herencia\bin\Debug\net8.0\Ejercicio Herencia.dll
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Herencia-Tarea-Semana-1\Ejercicio Herencia\Ejercicio Herencia\bin\Debug\net8.0\Ejercicio Herencia.pdb
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Herencia-Tarea-Semana-1\Ejercicio Herencia\Ejercicio Herencia\obj\Debug\net8.0\Ejercicio Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Herencia-Tarea-Semana-1\Ejercicio Herencia\Ejercicio Herencia\obj\Debug\net8.0\Ejercicio Herencia.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Herencia-Tarea-Semana-1\Ejercicio Herencia\Ejercicio Herencia\obj\Debug\net8.0\Ejercicio Herencia.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Herencia-Tarea-Semana-1\Ejercicio Herencia\Ejercicio Herencia\obj\Debug\net8.0\Ejercicio Herencia.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Herencia-Tarea-Semana-1\Ejercicio Herencia\Ejercicio Herencia\obj\Debug\net8.0\Ejercicio Herencia.sourcelink.json
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Herencia-Tarea-Semana-1\Ejercicio Herencia\Ejercicio Herencia\obj\Debug\net8.0\Ejercicio Herencia.dll
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Herencia-Tarea-Semana-1\Ejercicio Herencia\Ejercicio Herencia\obj\Debug\net8.0\refint\Ejercicio Herencia.dll
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Herencia-Tarea-Semana-1\Ejercicio Herencia\Ejercicio Herencia\obj\Debug\net8.0\Ejercicio Herencia.pdb
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Herencia-Tarea-Semana-1\Ejercicio Herencia\Ejercicio Herencia\obj\Debug\net8.0\Ejercicio Herencia.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Herencia-Tarea-Semana-1\Ejercicio Herencia\Ejercicio Herencia\obj\Debug\net8.0\ref\Ejercicio Herencia.dll
