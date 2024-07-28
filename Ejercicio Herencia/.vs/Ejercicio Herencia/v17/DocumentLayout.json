@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\manue\\OneDrive\\Documentos\\Manu\\Ceutec\\Programacion II\\Tareas-Programacion-II\\Ejercicio-Herencia-Tarea-Semana-1\\Ejercicio Herencia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1005A7D-288A-488B-93D0-743C07986D2E}|Ejercicio Herencia\\Ejercicio Herencia.csproj|c:\\users\\manue\\onedrive\\documentos\\manu\\ceutec\\programacion ii\\tareas-programacion-ii\\ejercicio-herencia-tarea-semana-1\\ejercicio herencia\\ejercicio herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1005A7D-288A-488B-93D0-743C07986D2E}|Ejercicio Herencia\\Ejercicio Herencia.csproj|solutionrelative:ejercicio herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1005A7D-288A-488B-93D0-743C07986D2E}|Ejercicio Herencia\\Ejercicio Herencia.csproj|c:\\users\\manue\\onedrive\\documentos\\manu\\ceutec\\programacion ii\\tareas-programacion-ii\\ejercicio-herencia-tarea-semana-1\\ejercicio herencia\\ejercicio herencia\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1005A7D-288A-488B-93D0-743C07986D2E}|Ejercicio Herencia\\Ejercicio Herencia.csproj|solutionrelative:ejercicio herencia\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1005A7D-288A-488B-93D0-743C07986D2E}|Ejercicio Herencia\\Ejercicio Herencia.csproj|c:\\users\\manue\\onedrive\\documentos\\manu\\ceutec\\programacion ii\\tareas-programacion-ii\\ejercicio-herencia-tarea-semana-1\\ejercicio herencia\\ejercicio herencia\\implementacionoperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1005A7D-288A-488B-93D0-743C07986D2E}|Ejercicio Herencia\\Ejercicio Herencia.csproj|solutionrelative:ejercicio herencia\\implementacionoperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1005A7D-288A-488B-93D0-743C07986D2E}|Ejercicio Herencia\\Ejercicio Herencia.csproj|c:\\users\\manue\\onedrive\\documentos\\manu\\ceutec\\programacion ii\\tareas-programacion-ii\\ejercicio-herencia-tarea-semana-1\\ejercicio herencia\\ejercicio herencia\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1005A7D-288A-488B-93D0-743C07986D2E}|Ejercicio Herencia\\Ejercicio Herencia.csproj|solutionrelative:ejercicio herencia\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1005A7D-288A-488B-93D0-743C07986D2E}|Ejercicio Herencia\\Ejercicio Herencia.csproj|c:\\users\\manue\\onedrive\\documentos\\manu\\ceutec\\programacion ii\\tareas-programacion-ii\\ejercicio-herencia-tarea-semana-1\\ejercicio herencia\\ejercicio herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1005A7D-288A-488B-93D0-743C07986D2E}|Ejercicio Herencia\\Ejercicio Herencia.csproj|solutionrelative:ejercicio herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -30,16 +30,16 @@
               "Title": "ImplementacionOperaciones.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Documentos\\Manu\\Ceutec\\Programacion II\\Tareas-Programacion-II\\Ejercicio-Herencia-Tarea-Semana-1\\Ejercicio Herencia\\Ejercicio Herencia\\ImplementacionOperaciones.cs",
               "RelativeDocumentMoniker": "Ejercicio Herencia\\ImplementacionOperaciones.cs",
-              "ToolTip": "C:\\Users\\manue\\OneDrive\\Documentos\\Manu\\Ceutec\\Programacion II\\Tareas-Programacion-II\\Ejercicio-Herencia-Tarea-Semana-1\\Ejercicio Herencia\\Ejercicio Herencia\\ImplementacionOperaciones.cs*",
-              "RelativeToolTip": "Ejercicio Herencia\\ImplementacionOperaciones.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Documentos\\Manu\\Ceutec\\Programacion II\\Tareas-Programacion-II\\Ejercicio-Herencia-Tarea-Semana-1\\Ejercicio Herencia\\Ejercicio Herencia\\ImplementacionOperaciones.cs",
+              "RelativeToolTip": "Ejercicio Herencia\\ImplementacionOperaciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T20:15:56.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Operaciones.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Documentos\\Manu\\Ceutec\\Programacion II\\Tareas-Programacion-II\\Ejercicio-Herencia-Tarea-Semana-1\\Ejercicio Herencia\\Ejercicio Herencia\\Operaciones.cs",
               "RelativeDocumentMoniker": "Ejercicio Herencia\\Operaciones.cs",
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Documentos\\Manu\\Ceutec\\Programacion II\\Tareas-Programacion-II\\Ejercicio-Herencia-Tarea-Semana-1\\Ejercicio Herencia\\Ejercicio Herencia\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio Herencia\\Program.cs",
               "ToolTip": "C:\\Users\\manue\\OneDrive\\Documentos\\Manu\\Ceutec\\Programacion II\\Tareas-Programacion-II\\Ejercicio-Herencia-Tarea-Semana-1\\Ejercicio Herencia\\Ejercicio Herencia\\Program.cs",
               "RelativeToolTip": "Ejercicio Herencia\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T20:12:37.39Z",
               "EditorCaption": ""
